@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yogayoga</string>
+    <string name="hello">안녕하세요</string>
+    <string name="yoga_intro">오늘의 요가 동작은 warrior two pose와 tree pose 입니다.</string>
+</resources>
